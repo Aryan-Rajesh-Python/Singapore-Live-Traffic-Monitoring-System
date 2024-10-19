@@ -1,0 +1,7 @@
+torch
+torchvision
+requests
+beautifulsoup4
+streamlit
+opencv-python
+pandas
