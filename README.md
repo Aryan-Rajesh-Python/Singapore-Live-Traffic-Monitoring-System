@@ -31,3 +31,5 @@ The **Singapore Live Traffic Monitoring System** is a real-time traffic monitori
    ```bash
    git clone https://github.com/Aryan-Rajesh-Python/Singapore-Live-Traffic-Monitoring-System.git
    cd Singapore-Live-Traffic-Monitoring-System
+   pip install -r requirements.txt
+   streamlit run main.py
