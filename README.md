@@ -1,7 +1,7 @@
 # Singapore Live Traffic Monitoring System
 
 ## Overview
-The **Singapore Live Traffic Monitoring System** is a real-time traffic monitoring application designed to classify and count vehicles at various checkpoints in Singapore. Utilizing advanced machine learning techniques and computer vision, this system provides accurate vehicle counts and visual data for traffic analysis.
+The **Singapore Live Traffic Monitoring System** is a real-time traffic monitoring application designed to classify and count vehicles at various checkpoints in Singapore. Utilizing advanced machine learning techniques and computer vision, this system provides accurate vehicle counts and visual data for traffic analysis
 
 ## Features
 - Real-time traffic image processing from various checkpoints.
